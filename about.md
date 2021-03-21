@@ -31,3 +31,10 @@ key: page-about
 Bourbakinho é um evento promovido pelos alunos do curso de Matemática Aplicada e Engenharia Matemática da UFRJ, com o objetivo de promover a troca de conhecimento entre o corpo discente, divulgação matemática, apresentação de trabalhos e etc.
 
 Neste site teremos informações sobre o evento, materiais das apresentações e pequenos artigos escritos pelos alunos dos cursos
+
+
+# Organizadores
+- Cynthia Herkenhoff - cynthia@matematica.ufrj.br
+- Thiago Holleben - hollebenthiago@matematica.ufrj.br
+- Luis Miguel Carmona - luismmcarmona@matematica.ufrj.br
+- Gil Miranda - gil@matematica.ufrj.br

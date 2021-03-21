@@ -21,7 +21,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      br      : &br       Inicio
+      br      : &br       Início
       # @end locale config
     url: /index.html
 
