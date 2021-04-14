@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Bourbakinho Blog
+title: Encontros do Bourbakinho
 header:
   theme: dark
   background: 'linear-gradient(to right, #2193b0, #6dd5ed)'
