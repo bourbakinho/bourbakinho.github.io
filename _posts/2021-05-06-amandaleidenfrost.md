@@ -1,5 +1,5 @@
 ---
-title:  Ensinando matemática de um ponto de vista estrutural: reflexões sobre alguns pressupostos históricos e filosóficos
+title: Ensinando matemática de um ponto de vista estrutural: reflexões sobre alguns pressupostos históricos e filosóficos
 tags: Bourbakinho
 ---
 ## Apresentador
