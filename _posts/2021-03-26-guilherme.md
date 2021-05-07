@@ -2,7 +2,10 @@
 title: Lá e de volta outra vez - reflexões sobre mercado, academia, e matemática aplicada
 tags: Bourbakinho
 ---
+## Autor:
+Guilherme tem graduação em Matemática Aplicada pela UFRJ, diploma de engenharia pela ENSTA ParisTech, e mestrado pelo Programa de Engenharia de Sistemas e Computação da UFRJ. Desde 2019 trabalha como cientista de dados na Gerdau:
 
+## Resumo:
 Quando eu era estudante de graduação e decidi mudar da engenharia para matemática aplicada, a questão que mais me preocupava era se a minha formação seria suficiente para ter um bom emprego fora da academia. Felizmente, através de muitas conversas com alunos mais velhos, ex-alunos, e professores, me convenci de que havia um caminho, mesmo que não tão óbvio.
 
 Nessa conversa pretendo compartilhar alguns aprendizados que tive ao longo da minha trajetória: sobre a formação em Matemática Aplicada e como ela se aplica ao mundo real, dúvidas e angústias que surgem durante a nossa formação, e eventualmente também sobre coisas legais que eu estudei ou que sei que se pode fazer com matemática. Embora eu não tenha a resposta final sobre nenhum desses assuntos, espero que compartilhando algumas das respostas que tenho hoje, possa ajudar aos que têm essa longa (porém divertidíssima!) jornada pela frente a descobrir suas próprias!"
