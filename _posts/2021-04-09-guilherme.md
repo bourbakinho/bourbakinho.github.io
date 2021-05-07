@@ -1,10 +1,6 @@
 ---
 title: Lá e de volta outra vez - reflexões sobre mercado, academia, e matemática aplicada
 tags: Bourbakinho
-article_header:
-  type: cover
-  image:
-    src: /screenshot.jpg
 ---
 
 Quando eu era estudante de graduação e decidi mudar da engenharia para matemática aplicada, a questão que mais me preocupava era se a minha formação seria suficiente para ter um bom emprego fora da academia. Felizmente, através de muitas conversas com alunos mais velhos, ex-alunos, e professores, me convenci de que havia um caminho, mesmo que não tão óbvio.
